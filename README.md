@@ -66,3 +66,5 @@ Es necesario entender que las etiquetas (o realeases) sólo deben ser creadas a 
 Para entender cómo llamar o categorizar a tus versiones te recomendamos un artículo en nuestro blog: [¿Cómo se deciden las versiones de software?](https://ed.team/blog/como-se-deciden-las-versiones-del-software)
 
 ## Cómo trabajar con las ramas?
+
+Probando lo hermoso de git stash
